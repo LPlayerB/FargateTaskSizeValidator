@@ -1,6 +1,6 @@
 {
   "name": "fargatetasksizevalidator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validates CPU units and Memory for a fargate task, it makes sure the combination is supported by AWS",
   "main": "lib/cpu-memory-validator.js",
   "files": [
